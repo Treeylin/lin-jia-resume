@@ -1,0 +1,11 @@
+<svg width="760" height="460" viewBox="0 0 760 460" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="760" height="460" fill="#070707"/>
+  <rect x="40" y="44" width="680" height="372" rx="28" fill="#101010" stroke="rgba(247,247,241,.18)"/>
+  <text x="78" y="104" fill="#61D8FF" font-family="Arial, sans-serif" font-size="28" font-weight="900">SITUATION INTELLIGENCE</text>
+  <path d="M88 324C158 226 218 284 280 220C342 156 410 248 470 172C530 96 598 148 672 92" stroke="#BAFF19" stroke-width="7" stroke-linecap="round"/>
+  <path d="M88 328H672M88 268H672M88 208H672M88 148H672" stroke="#F7F7F1" stroke-opacity=".1"/>
+  <rect x="82" y="356" width="180" height="38" rx="12" fill="#BAFF19"/>
+  <text x="108" y="381" fill="#050505" font-family="Arial, sans-serif" font-size="16" font-weight="900">840 reports / day</text>
+  <rect x="284" y="356" width="180" height="38" rx="12" fill="#F7F7F1" fill-opacity=".08"/>
+  <text x="314" y="381" fill="#F7F7F1" font-family="Arial, sans-serif" font-size="16" font-weight="900">30k calls / day</text>
+</svg>

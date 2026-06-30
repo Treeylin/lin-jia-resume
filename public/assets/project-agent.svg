@@ -1,0 +1,19 @@
+<svg width="760" height="460" viewBox="0 0 760 460" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="760" height="460" fill="#070707"/>
+  <rect x="40" y="44" width="680" height="372" rx="28" fill="#101010" stroke="rgba(247,247,241,.18)"/>
+  <text x="78" y="104" fill="#BAFF19" font-family="Arial, sans-serif" font-size="28" font-weight="900">AGENT BUILDER</text>
+  <g stroke="#F7F7F1" stroke-opacity=".28" stroke-width="5">
+    <path d="M170 230H300M362 230H492M554 230H620"/>
+  </g>
+  <g>
+    <rect x="92" y="176" width="120" height="108" rx="22" fill="#BAFF19"/>
+    <rect x="300" y="176" width="120" height="108" rx="22" fill="#61D8FF" fill-opacity=".78"/>
+    <rect x="508" y="176" width="120" height="108" rx="22" fill="#FF6A3D" fill-opacity=".78"/>
+  </g>
+  <g fill="#050505" font-family="Arial, sans-serif" font-size="17" font-weight="900">
+    <text x="126" y="237">PLAN</text>
+    <text x="328" y="237">TOOL</text>
+    <text x="540" y="237">ACT</text>
+  </g>
+  <path d="M96 342H360M96 374H504" stroke="#F7F7F1" stroke-opacity=".22" stroke-width="12" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,35 @@
+<svg width="760" height="980" viewBox="0 0 760 980" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="760" height="980" fill="#070707"/>
+  <circle cx="380" cy="406" r="190" fill="#BAFF19" fill-opacity=".08"/>
+  <circle cx="380" cy="406" r="138" stroke="#BAFF19" stroke-opacity=".38" stroke-width="2"/>
+  <circle cx="380" cy="406" r="72" fill="#111" stroke="#F7F7F1" stroke-opacity=".22"/>
+  <text x="310" y="418" fill="#F7F7F1" font-family="Arial, sans-serif" font-size="25" font-weight="900">LIN JIA</text>
+  <g stroke="#F7F7F1" stroke-opacity=".18">
+    <path d="M380 268V188"/>
+    <path d="M380 544V632"/>
+    <path d="M242 406H146"/>
+    <path d="M518 406H614"/>
+    <path d="M282 308L210 236"/>
+    <path d="M478 308L550 236"/>
+    <path d="M282 504L210 576"/>
+    <path d="M478 504L550 576"/>
+  </g>
+  <g fill="#101010" stroke="rgba(247,247,241,.18)">
+    <rect x="98" y="114" width="214" height="94" rx="18"/>
+    <rect x="448" y="114" width="214" height="94" rx="18"/>
+    <rect x="72" y="358" width="196" height="94" rx="18"/>
+    <rect x="492" y="358" width="196" height="94" rx="18"/>
+    <rect x="92" y="596" width="238" height="94" rx="18"/>
+    <rect x="430" y="596" width="238" height="94" rx="18"/>
+  </g>
+  <g font-family="Arial, sans-serif" font-weight="900" font-size="18">
+    <text x="126" y="164" fill="#BAFF19">AI客服</text>
+    <text x="476" y="164" fill="#61D8FF">RAG / LLM</text>
+    <text x="100" y="408" fill="#F7F7F1">态势感知</text>
+    <text x="520" y="408" fill="#F7F7F1">Agent平台</text>
+    <text x="120" y="646" fill="#F7F7F1">证券风控</text>
+    <text x="458" y="646" fill="#BAFF19">指标增长</text>
+  </g>
+  <rect x="82" y="792" width="596" height="74" rx="18" fill="#BAFF19"/>
+  <text x="128" y="839" fill="#050505" font-family="Arial, sans-serif" font-size="24" font-weight="900">PRODUCT THINKING × AI DELIVERY</text>
+</svg>

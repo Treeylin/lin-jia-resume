@@ -1,0 +1,35 @@
+<svg width="980" height="1180" viewBox="0 0 980 1180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="980" height="1180" fill="#050505"/>
+  <rect x="56" y="70" width="868" height="1040" rx="42" fill="#0B0B0B" stroke="rgba(247,247,241,.2)"/>
+  <path d="M114 183H866" stroke="#BAFF19" stroke-opacity=".42"/>
+  <circle cx="145" cy="126" r="12" fill="#BAFF19"/>
+  <circle cx="184" cy="126" r="12" fill="#61D8FF" fill-opacity=".7"/>
+  <circle cx="223" cy="126" r="12" fill="#FF6A3D" fill-opacity=".75"/>
+  <text x="114" y="252" fill="#F7F7F1" font-family="Arial, sans-serif" font-size="76" font-weight="900">AI SERVICE</text>
+  <text x="116" y="318" fill="#F7F7F1" fill-opacity=".58" font-family="Arial, sans-serif" font-size="25" font-weight="700">LLM / RAG / Agent Workflow / Insight Engine</text>
+  <g opacity=".95">
+    <rect x="114" y="390" width="326" height="196" rx="24" fill="#121212" stroke="rgba(247,247,241,.18)"/>
+    <text x="146" y="451" fill="#BAFF19" font-family="Arial, sans-serif" font-size="20" font-weight="900">INTENT ROUTER</text>
+    <path d="M146 502H394M146 536H330" stroke="#F7F7F1" stroke-opacity=".34" stroke-width="12" stroke-linecap="round"/>
+  </g>
+  <g opacity=".95">
+    <rect x="486" y="390" width="380" height="196" rx="24" fill="#121212" stroke="rgba(247,247,241,.18)"/>
+    <text x="518" y="451" fill="#61D8FF" font-family="Arial, sans-serif" font-size="20" font-weight="900">AGENT BUILDER</text>
+    <circle cx="548" cy="526" r="24" fill="#BAFF19" fill-opacity=".9"/>
+    <circle cx="648" cy="526" r="24" fill="#61D8FF" fill-opacity=".76"/>
+    <circle cx="748" cy="526" r="24" fill="#FF6A3D" fill-opacity=".78"/>
+    <path d="M572 526H624M672 526H724" stroke="#F7F7F1" stroke-opacity=".35" stroke-width="4"/>
+  </g>
+  <rect x="114" y="638" width="752" height="294" rx="28" fill="#101010" stroke="rgba(247,247,241,.18)"/>
+  <text x="146" y="700" fill="#F7F7F1" font-family="Arial, sans-serif" font-size="32" font-weight="900">Situation Analysis</text>
+  <path d="M152 854C214 774 276 836 338 772C400 708 462 808 524 742C586 676 648 712 710 640C772 568 834 640 846 628" stroke="#BAFF19" stroke-width="6" stroke-linecap="round"/>
+  <path d="M152 902H846" stroke="#F7F7F1" stroke-opacity=".12"/>
+  <path d="M152 818H846" stroke="#F7F7F1" stroke-opacity=".12"/>
+  <path d="M152 734H846" stroke="#F7F7F1" stroke-opacity=".12"/>
+  <rect x="146" y="970" width="218" height="72" rx="18" fill="#BAFF19"/>
+  <text x="174" y="1017" fill="#050505" font-family="Arial, sans-serif" font-size="23" font-weight="900">91.23% ASR</text>
+  <rect x="388" y="970" width="218" height="72" rx="18" fill="#F7F7F1" fill-opacity=".08" stroke="rgba(247,247,241,.16)"/>
+  <text x="420" y="1017" fill="#F7F7F1" font-family="Arial, sans-serif" font-size="23" font-weight="900">5 MIN REPORT</text>
+  <rect x="630" y="970" width="218" height="72" rx="18" fill="#F7F7F1" fill-opacity=".08" stroke="rgba(247,247,241,.16)"/>
+  <text x="660" y="1017" fill="#F7F7F1" font-family="Arial, sans-serif" font-size="23" font-weight="900">31 PROVINCES</text>
+</svg>

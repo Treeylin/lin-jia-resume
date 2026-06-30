@@ -1,0 +1,13 @@
+<svg width="760" height="460" viewBox="0 0 760 460" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="760" height="460" fill="#070707"/>
+  <rect x="40" y="44" width="680" height="372" rx="28" fill="#101010" stroke="rgba(247,247,241,.18)"/>
+  <text x="78" y="104" fill="#F7F7F1" font-family="Arial, sans-serif" font-size="28" font-weight="900">SECURITIES OPERATION</text>
+  <rect x="86" y="152" width="250" height="206" rx="20" fill="#F7F7F1" fill-opacity=".06" stroke="rgba(247,247,241,.14)"/>
+  <rect x="424" y="152" width="250" height="206" rx="20" fill="#F7F7F1" fill-opacity=".06" stroke="rgba(247,247,241,.14)"/>
+  <path d="M122 206H294M122 246H260M122 286H304" stroke="#F7F7F1" stroke-opacity=".24" stroke-width="12" stroke-linecap="round"/>
+  <path d="M460 206H632M460 246H594M460 286H642" stroke="#BAFF19" stroke-opacity=".78" stroke-width="12" stroke-linecap="round"/>
+  <rect x="122" y="316" width="138" height="36" rx="12" fill="#BAFF19"/>
+  <text x="148" y="340" fill="#050505" font-family="Arial, sans-serif" font-size="16" font-weight="900">40% COST</text>
+  <rect x="460" y="316" width="138" height="36" rx="12" fill="#BAFF19"/>
+  <text x="488" y="340" fill="#050505" font-family="Arial, sans-serif" font-size="16" font-weight="900">95% RISK</text>
+</svg>

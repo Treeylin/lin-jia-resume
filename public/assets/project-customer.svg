@@ -1,0 +1,12 @@
+<svg width="760" height="460" viewBox="0 0 760 460" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="760" height="460" fill="#070707"/>
+  <rect x="40" y="44" width="680" height="372" rx="28" fill="#101010" stroke="rgba(247,247,241,.18)"/>
+  <text x="78" y="104" fill="#BAFF19" font-family="Arial, sans-serif" font-size="28" font-weight="900">AI CUSTOMER SERVICE</text>
+  <path d="M84 166H312M84 206H254M84 246H292" stroke="#F7F7F1" stroke-opacity=".26" stroke-width="14" stroke-linecap="round"/>
+  <circle cx="548" cy="230" r="102" fill="#BAFF19" fill-opacity=".1" stroke="#BAFF19" stroke-opacity=".38" stroke-width="3"/>
+  <path d="M502 232L532 262L598 192" stroke="#BAFF19" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="84" y="322" width="164" height="48" rx="14" fill="#BAFF19"/>
+  <text x="112" y="353" fill="#050505" font-family="Arial, sans-serif" font-size="18" font-weight="900">91.23%</text>
+  <rect x="270" y="322" width="164" height="48" rx="14" fill="#F7F7F1" fill-opacity=".08"/>
+  <text x="300" y="353" fill="#F7F7F1" font-family="Arial, sans-serif" font-size="18" font-weight="900">5 MIN</text>
+</svg>
